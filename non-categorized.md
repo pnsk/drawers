@@ -12,3 +12,13 @@ Ref: [Wikipedia: "Non-apology apology" ](https://en.wikipedia.org/wiki/Non-apolo
 
 You can use that wording when someone gets upset to you but it's not your fault.
 
+# An elephant in the room
+
+The topic that we all know it's an issue but we're ignoring.
+
+It's okay to replace "elephant" by "dinosaur" or something like that.
+
+e.g.
+
+> I'm talking about the elephant in the room
+> We have an elephant in the room
