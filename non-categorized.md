@@ -26,3 +26,16 @@ e.g.
 # Riptide
 
 https://en.wikipedia.org/wiki/Rip_tide
+
+# Brain fart
+
+It's "ど忘れ" in Japanese
+
+e.g. 
+
+> I'm having brain fart
+
+This is very casual so you can say instead:
+
+> “my brain isn’t working"
+> “It’s on the tip of my tongue"
