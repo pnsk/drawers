@@ -23,6 +23,10 @@ e.g.
 > I'm talking about the elephant in the room
 > We have an elephant in the room
 
+# Making a mountain out of a mole hill
+
+It's when you turn a small issue in to a big deal
+
 # Riptide
 
 https://en.wikipedia.org/wiki/Rip_tide
@@ -43,3 +47,10 @@ This is very casual so you can say instead:
 # 🚢
 
 passenger ship / cargo ship
+
+# Need to leave the meeting
+
+- “Something has come up and I need to leave. I’ll have someone contact you soon. Really sorry”
+- “I’m really sorry, something has come up and I need to go”
+- “Thanks for your time, I’ll have someone contact you” 
+- “Somehting has come up, and I need to stop here”
