@@ -54,3 +54,9 @@ passenger ship / cargo ship
 - “I’m really sorry, something has come up and I need to go”
 - “Thanks for your time, I’ll have someone contact you” 
 - “Somehting has come up, and I need to stop here”
+
+# Sounds like a pita
+
+- It's used in text conversation but not used in oral conversation
+- It's the abbreviation for "a pain in the ass" (🇺🇸 ) or "a pain in the arse" (🇦🇺)
+- In oral conversation, you can say just "Sounds like a pain".
