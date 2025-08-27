@@ -60,3 +60,21 @@ passenger ship / cargo ship
 - It's used in text conversation but not used in oral conversation
 - It's the abbreviation for "a pain in the ass" (🇺🇸 ) or "a pain in the arse" (🇦🇺)
 - In oral conversation, you can say just "Sounds like a pain".
+
+# It's all greek to me
+
+- That means "I don't understand"
+- It will work for any native English speaker
+
+# Chill
+
+- chilling
+  - "we were chilling"
+  - "chilling" means "doing nothing"
+- chill
+  - "she is chill"
+  - That means "she is cool"
+ 
+# scalper
+
+- 転売ヤー
